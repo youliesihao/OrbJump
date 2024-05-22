@@ -18,7 +18,7 @@ android {
     defaultConfig {
         minSdkVersion 22
         targetSdkVersion 32
-        applicationId 'com.aaa.AAA'
+        applicationId 'com.orbjump.orbJump'
         ndk {
             abiFilters 'armeabi-v7a'
         }

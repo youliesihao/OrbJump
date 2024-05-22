@@ -93,7 +93,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 21066}
     - Class: 114
-      Script: {instanceID: 23394}
+      Script: {instanceID: 22210}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -704,4 +704,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/juddynake/Desktop/unity/PROJECT3/JUMP3/game/AAA.exe
+  playerPath: C:/Users/juddynake/Desktop/unity/PROJECT3/orbJump/game/orbJump.exe

@@ -1,4 +1,4 @@
-com.aaa.AAA
+com.orbjump.orbJump
 color staticSplashScreenBackgroundColor
 drawable app_banner
 id unitySurfaceView
