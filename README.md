@@ -14,7 +14,7 @@ this is a unity project. There is an executable file in the game folder that can
 4. If the character jumps off the platform, the game ends.
 
 ## Installation Guide
-1. Clone this repository to your local machine.
+1. git clone 
 2.  install android environment .
 
 
