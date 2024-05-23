@@ -19,7 +19,7 @@ in windows xp above systems test pass ,android 7 above systems test pass.
 1. git clone https://github.com/youliesihao/OrbJump.git
 2. install unity and android module.
 3. open orbjump project.
-## control code 
+## Control code 
  this game contain four code file ,
  "PlayerController.cs"control player,
  "GameManager.cs"control ramdom create platform,
