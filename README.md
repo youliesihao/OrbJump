@@ -1,11 +1,11 @@
 ![Image text](picture/orbjump.png)
-## orbjump
+## ORBJUMP
 
 ## Developers
                by: OrbJump
 
 ## Introduction
-this is a unity project. There is an executable file in the game folder that can be played.There is also an apk in this project.
+This is a unity project.This package is primarily used to test the basic functions and performance of the game, ensuring a smooth gaming experience across a variety of devices. There is an executable file in the game folder that can be played.There is also an apk in this project.
 in windows xp above systems test pass ,android 7 above systems test pass.
 
 ## Game Rules
