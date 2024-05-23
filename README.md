@@ -1,8 +1,8 @@
 ![Image text](picture/orbjump.png)
-## orbjump Game
+## orbjump
 
 ## Developers
-               by: xu
+               by: OrbJump
 
 ## Introduction
 this is a unity project. There is an executable file in the game folder that can be played.There is also an apk in this project.
